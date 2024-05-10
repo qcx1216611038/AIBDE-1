@@ -543,7 +543,7 @@ a.w3_agile_vimeo:hover{
     z-index: 9;
 }
 .agileits-banner-info{
-	background: url(../images/banner.jpg) no-repeat 0px 0px;
+	background: url(../images/background.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 630px;
     padding: 12em 0;
